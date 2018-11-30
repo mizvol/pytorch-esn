@@ -1,0 +1,12 @@
+
+\.ipynb_checkpoints/
+
+torchesn/__pycache__/
+
+torchesn/nn/__pycache__/
+
+torchesn/utils/__pycache__/
+
+datasets/processed/
+
+datasets/raw/
